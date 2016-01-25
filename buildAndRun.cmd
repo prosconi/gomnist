@@ -1,2 +1,2 @@
 go build
-bbq.exe
+gomnist.exe
